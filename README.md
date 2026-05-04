@@ -52,6 +52,7 @@ DNA methylation is an epigenetic modification where a methyl (-CH3) group is add
 
 ---
 
+```
 ## Repository Structure
 DNA-Methylation-Analysis/
 │
@@ -97,6 +98,7 @@ DNA-Methylation-Analysis/
 └── project_report.md             <- Full project report
 
 ---
+```
 
 ## Part 1: WGBS Analysis
 
