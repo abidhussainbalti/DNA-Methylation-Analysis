@@ -61,15 +61,14 @@ DNA-Methylation-Analysis/
 ├── Part1_WGBS_Galaxy/
 │   ├── README.md                      <- Detailed Part 1 documentation
 │   ├── results/
-│   │   ├── falco_reports/             <- QC reports (Falco/FastQC)
-│   │   │   ├── falco_subset1_basic_stats.png
-│   │   │   ├── falco_subset2_basic_stats.png
-│   │   │   ├── falco_subset1_quality_scores.png
-│   │   │   └── falco_subset2_quality_scores.png
+│   │   ├── falco_reports/             <- QC reports (Falco)
+│   │   │   ├── falco_subset1_report.html
+│   │   │   └── falco_subset2_report.html
 │   │   ├── methylation_bias_plots/    <- MethylDackel bias SVGs
+│   │   │   ├── methyldackel_bias_top_strand.svg
+│   │   │   └── methyldackel_bias_bottom_strand.svg
 │   │   ├── methylation_extraction/    <- CpG methylation levels
 │   │   │   └── methylation_levels.tabular
-│   │   ├── metilene_output/           <- Differential methylation
 │   │   └── visualization/            <- computeMatrix + plotProfile
 │   │       ├── plotProfile_CpG_islands.png
 │   │       └── methylation_heatmap_data.tabular
@@ -79,7 +78,7 @@ DNA-Methylation-Analysis/
 ├── Part2_EPIC_Biolearn/
 │   ├── README.md                     <- Detailed Part 2 documentation
 │   ├── notebooks/
-│   │   └── aging_clocks_analysis.ipynb  <- Main analysis notebook
+│   │   └── aging_clocks_analysis.ipynb
 │   ├── results/
 │   │   ├── correlation_matrix_dataset1.png
 │   │   ├── correlation_matrix_dataset2.png
