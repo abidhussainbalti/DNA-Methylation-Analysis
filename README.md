@@ -189,6 +189,7 @@ Epigenetic aging clock analysis using the **Biolearn** Python library on two pub
 
 ---
 
+````
 ## How Parts Connect
 DNA Methylation
 │
@@ -203,6 +204,7 @@ predict biological age
 Both parts demonstrate that DNA methylation is a **versatile, stable, and informative epigenetic biomarker** applicable across biological contexts — from cancer diagnostics to aging research.
 
 ---
+```
 
 ## Requirements
 
