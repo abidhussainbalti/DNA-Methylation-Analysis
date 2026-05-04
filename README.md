@@ -189,8 +189,9 @@ Epigenetic aging clock analysis using the **Biolearn** Python library on two pub
 
 ---
 
-````
+
 ## How Parts Connect
+```
 DNA Methylation
 │
 ├── Changes in DISEASE (Part 1)
@@ -200,11 +201,9 @@ DNA Methylation
 └── Changes with AGING (Part 2)
 └── Aging clocks: methylation patterns
 predict biological age
-
-Both parts demonstrate that DNA methylation is a **versatile, stable, and informative epigenetic biomarker** applicable across biological contexts — from cancer diagnostics to aging research.
-
----
 ```
+Both parts demonstrate that DNA methylation is a **versatile, stable, and informative epigenetic biomarker** applicable across biological contexts — from cancer diagnostics to aging research.
+---
 
 ## Requirements
 
